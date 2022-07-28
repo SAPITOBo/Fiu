@@ -5,11 +5,11 @@ import fs from 'fs'
 
 
 global.owner = [
-  ['5219992095479', '👑 Mystic - Creador 👑', true],
-  ['34642467703', '👑 Mystic - Collaborator 1 👑', true],
-  ['50499698072', '👑 Mystic - Collaborator 2 👑', true],
-  ['595986460945', '👑 Mystic - Collaborator 3 👑', true],
-  ['51940617554', '👑 Mystic - Collaborator 4 👑', true],
+  ['595983186566', '👑 Mystic - Creador 👑', true],
+  ['595983186566', '👑 Mystic - Collaborator 1 👑', true],
+  ['595983186566', '👑 Mystic - Collaborator 2 👑', true],
+  ['595983186566', '👑 Mystic - Collaborator 3 👑', true],
+  ['595983186566', '👑 Mystic - Collaborator 4 👑', true],
   ['5219992095479'],
   ['5219991402134'],
   ['5219993404349'],
@@ -72,7 +72,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
+global.author = '★+595 983 186566 wasaaa🫡★'
 
 global.wm = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
 global.igfg = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
