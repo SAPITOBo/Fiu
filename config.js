@@ -72,36 +72,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '★ Oh, sometimes I get a good feeling, yeah
-I get a feeling that I've never never never never had before, no no
-I get a good feeling, yeah
-Oh, sometimes I get a good feeling, yeah
-I get a feeling that I never never never never had before, no no
-I get a good feeling, yeah
-
-Yes I can, doubt to believe what I know what's his plan
-Pull me, grab me, grab till the bucket can't have me
-I'll be the president one day
-January first, oh, you like that gossip
-Like you the one drinking what god sip dot com
-Now I gotta work with your tone
-How many Rolling Stones you want
-Yeah I got a brand new spirit
-Picking it when it's done
-Woke up on the side of the bed like I won
-Talk like a winner, my chest to that sun
-G5 dealer, US to Taiwan
-Now who can say that, I wanna play back
-Mama knew I was a needle in a hay stack
-A bugatti boy, plus maybach
-I got a feeling it's around asap
-
-Oh, sometimes I get a good feeling, yeah
-I get a feeling that I've never never never never had before, no no
-I get a good feeling, yeah
-Oh, sometimes I get a good feeling, yeah
-I get a feeling that I've never never never never had before, no no
-I get a good fee 🫡★'
+global.author = '★wenas 🫡★'
 
 global.wm = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
 global.igfg = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
